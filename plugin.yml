@@ -1,0 +1,6 @@
+name: StartCombatLog
+description: Sistemas feitos por Lucas Monteiro
+main: net.lc.combatlog.Main
+version: 1.0
+authors: [Lucas Monteiro]
+website: https://github.com/LucasAlmeida9755
